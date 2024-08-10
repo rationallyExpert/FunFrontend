@@ -1,0 +1,9 @@
+html {
+    /* allows user to not have scroll bars , scroll bars occur because of paddings */
+    box-sizing: border-box; 
+}
+
+body {
+    margin: 0;
+    min-height: 100vh;
+}
